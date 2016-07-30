@@ -12,15 +12,15 @@ La estrategia consiste primero en que A calcule una serie de *checksums* del arc
 ```cd solucion && make```
 
 ### Corrida sin Valgrind
-Script en directorio *run*
+Script en directorio *run*  
 ```chmod +x run.sh free_port.sh;./run.sh $(./free_port.sh 10001) no-valgrind```
 
 ### Corrida con Valgrind
-Script en directorio *run*
+Script en directorio *run*  
 ```chmod +x run.sh free_port.sh;./run.sh $(./free_port.sh 10001) valgrind```
 
 ### Referencias
-[The rsync algorithm](https://rsync.samba.org/tech_report/tech_report.html)
-[The client server model](http://www.linuxhowtos.org/C_C++/socket.htm)
+* [The rsync algorithm](https://rsync.samba.org/tech_report/tech_report.html)
+* [The client server model](http://www.linuxhowtos.org/C_C++/socket.htm)
 
 :dizzy:
