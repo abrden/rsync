@@ -22,4 +22,5 @@ Script en directorio *run*
 ### Referencias
 [The rsync algorithm](https://rsync.samba.org/tech_report/tech_report.html)
 [The client server model](http://www.linuxhowtos.org/C_C++/socket.htm)
+
 :dizzy:
